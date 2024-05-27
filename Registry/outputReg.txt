@@ -1,0 +1,6 @@
+[HKEY_LOCAL_MACHINE\BCD00000000\Description]
+"System"=dword:00000001
+"TreatAsSystem"=dword:00000001
+"GuidCache"=hex:9e,22,d0,b4,67,a9,d5,01,0c,27,00,00,45,1e,e5,42,13,f9,d0,34,4c,\
+  85,fe,71
+
